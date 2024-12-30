@@ -1,5 +1,6 @@
 # DSC148_Final_Project
 This is the final project repo for course DSC 148 @ UCSD
+
 final report: https://github.com/vickyli1015/DSC148_Final_Project/blob/b977119971e14d0452b6911bc472a0ffb7479124/dsc148_final__3_.pdf
 
 Collaborators:
